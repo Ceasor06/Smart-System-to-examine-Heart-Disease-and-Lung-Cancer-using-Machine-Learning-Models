@@ -88,4 +88,4 @@ Here we propose a simple prediciton of the lung cancer using ML.
 
 A user friendly mobile application is developed and the best algorithm is used as a model in the mobile application.
 
-**The results and the conclusions are discussed in the [Final Report]().**
+**The results and the conclusions are discussed in the [Final Report](https://github.com/Ceasor06/Smart-System-to-examine-Heart-Disease-and-Lung-Cancer-using-Machine-Learning-Models/blob/main/Smart%20System%20to%20Examine%20Heart%20Disease%20and%20Lung%20Cancer%20Using%20Machine%20Learning%20Methods.pdf).**
