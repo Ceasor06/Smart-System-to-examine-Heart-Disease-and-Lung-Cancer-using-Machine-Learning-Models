@@ -44,12 +44,13 @@ Nowadays, during this ongoing pandemic, patients face a situation of unanticipat
 ### Algorithm which gives the best prediction for Heart disease is identified which is Logistic Regression with accuracy of 88.52%.
 
 
+
 Lung cancer is the major cause of cancer-related death in this generation, and it is expected to remain so for the foreseeable future. It is feasible to treat lung cancer if the symptoms of the disease are detected early. It is possible to construct a sustainable prototype model for the treatment of lung cancer using the current developments in computational intelligence without negatively impacting the environment. Because it will reduce the number of resources squandered as well as the amount of work necessary to complete manual tasks, it will save both time and money.
 Here we propose a simple prediciton of the lung cancer using ML.
 
-Size of the dataset for lung cancer contains 310 rows with 15 attributes.
+**Size of the dataset for lung cancer contains 310 rows with 15 attributes.**
 
-Attributes for the lung cancer are
+**Attributes for the lung cancer are :**
 
 - Age	
 * Sex	
@@ -67,7 +68,7 @@ Attributes for the lung cancer are
 * Swallowing Difficulty	
 + Chest Pain
 
-The algorithms used for lung cancer are
+## The algorithms we used for lung cancer prediction are:
 
 1. LOGISTIC REGRESSION
 
