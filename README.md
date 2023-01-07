@@ -87,3 +87,5 @@ Here we propose a simple prediciton of the lung cancer using ML.
 
 
 A user friendly mobile application is developed and the best algorithm is used as a model in the mobile application.
+
+**The results and the conclusions are discussed in the [Final Report]().**
